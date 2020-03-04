@@ -1,0 +1,28 @@
+{
+  "name": "rbac-dao",
+  "version": "0.0.0",
+  "description": "Implementing resource based access control and dao in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeofnode/rbac-dao.git"
+  },
+  "keywords": [
+    "rbac",
+    "dao",
+    "db",
+    "rcl",
+    "role",
+    "control",
+    "database"
+  ],
+  "author": "Ramesh Kumar <codeofnode@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeofnode/rbac-dao/issues"
+  },
+  "homepage": "https://github.com/codeofnode/rbac-dao#readme"
+}
